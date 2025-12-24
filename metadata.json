@@ -1,0 +1,7 @@
+{
+  "name": "DocuMorph AI",
+  "description": "A comprehensive document conversion and PDF manipulation tool powered by Gemini AI. Convert between PDF, Word, Excel, and images, plus merge, split, and edit PDFs directly in your browser.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
